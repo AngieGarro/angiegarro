@@ -17,8 +17,6 @@
 <h3 align="left">Frameworks:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  
+
+<h3 align="left">Frecuency:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angiegarro&show_icons=true&locale=en&layout=compact" alt="angiegarro" /></p>
-
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs](https://camo.githubusercontent.com/167a225b00974a7f35532c3accc1d325e6cb03967801b68be14b58a5100de697/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d417269734775696d657261266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961)?username=angiegarro&show_icons=true&locale=en&layout=compact" alt="angiegarro" theme=algolia" style="max-width: 100%; /></p>
-
