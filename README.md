@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora y diseñadora de Software con experiencia en aplicaciones web y diversos lenguajes de programación.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<img src="../BannerMarca.jpg" alt="banner_image" style="display:block; margin:auto;">
+<img src="https://i.postimg.cc/fWXCkWLQ/Banner-Marca.jpg" alt="banner_image" style="display:block; margin:auto;">
 <p align="left">
 <a href="https://linkedin.com/in/angie-paola-garro-martínez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angie-paola-garro-martínez" height="30" width="40" /></a>
 <a href="https://discord.gg/an_gm1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="an_gm1020" height="30" width="40" /></a>
